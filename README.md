@@ -86,30 +86,30 @@ Bell Telephone Laboratories成立於1925年，是貝爾系統的基礎研究設�
 
 貝爾實驗室稱此系統為“二元”表示法，因為繼電器的權重為一或五。 實際上，它不是這些數字基礎的組合； 而是一個七位混合十進制代碼。 所有的貝爾實驗室中繼計算機都以十進制算法工作。 一個特殊的電路檢查發現每個十進制數字有兩個，只有兩個繼電器通電。 另一個電路檢查了每個組中只有一個繼電器的接通狀態，這防止了兩個單獨的錯誤相互抵消，儘管某些異常組合可能無法檢測到。
 
-        <p align="left">詞彙
-            institution 機構
-            synonymous 同義的
-            schemes	方案
-            tobacco tin 錫罐
-            speculated 推測
-            relays 繼電器
-            colleagues 同事
-            bulkier 笨重
-            commercial 商用的
-            interim 臨時的
-            circuits 電路
-            straightforward 直截了當
-            intermediate 中間
-            correspondence 對應關係
-            crossbars 多極繼電器
-            terminal 終端機
-            prominent 傑出
-            foreshadowed 預兆
-            perforated tape 穿孔的磁帶
-            proposals 提議
-            shift 轉移
-            Relay Interpolator 中繼插值器
-            cement 接合
-            interpolation 插植
-            reliability 可靠性
-            diagnostic 診斷</p>
+詞彙                中文<br>
+institution         機構<br>
+synonymous          同義的<br>
+schemes	            方案<br>
+tobacco tin         錫罐<br>
+speculated          推測<br>
+relays              繼電器<br>
+colleagues          同事<br>
+bulkier             笨重<br>
+commercial          商用的<br>
+interim             臨時的<br>
+circuits            電路<br>
+straightforward     直截了當<br>
+intermediate        中間<br>
+correspondence      對應關係<br>
+crossbars           多極繼電器<br>
+terminal            終端機<br>
+prominent           傑出<br>
+foreshadowed        預兆<br>
+perforated tape     穿孔的磁帶<br>
+proposals           提議<br>
+shift               轉移<br>
+Relay Interpolator  中繼插值器<br>
+cement              接合<br>
+interpolation       插植<br>
+reliability         可靠性<br>
+diagnostic          診斷<br></p>
