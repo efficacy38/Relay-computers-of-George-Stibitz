@@ -1,3 +1,2 @@
 # Relay-computers-of-George-Stibitz
-> Author: David Humphrey (original [English version](README.md))  
-  中文（繁體）語系譯者：[Birkhoff Lee](https://fb.me/birkhofflee)
+>  ([English version]<br><div align=center><img width="200" height="300" src="https://history-computer.com/ModernComputer/Relays/images/stibitz_portrait2.jpg"/></div>
